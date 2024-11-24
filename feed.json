@@ -12,13 +12,13 @@
       "description": "A straightforward and user-friendly calendar app to plan your days and manage events.",
       "contentIdentifier": "pn.tortuwave.tortuapps.tortucalendar",
       "contentVersion": "0.9",
-      "url": "https://github.com/mul7dev/tortuapps/blob/main/Tortucalendar.zip",
+      "url": "https://github.com/mul7dev/tortuapps/blob/a6f85142e789d7a0683e03952a7ecc84b8abe006/Tortucalendar.zip",
       "publishedDate": "2024-11-05T09:00:00+01:00",
       "lastUpdatedDate": "2024-11-05T09:00:00+01:00",
-      "thumbnailURL": "https://github.com/mul7dev/tortuapps/blob/main/Thumbnail.png",
-      "bannerImageURL": "https://github.com/mul7dev/tortuapps/blob/main/Thumbnail.png",
+      "thumbnailURL": "https://github.com/mul7dev/tortuapps/blob/a6f85142e789d7a0683e03952a7ecc84b8abe006/Thumbnail.png",
+      "bannerImageURL": "https://github.com/mul7dev/tortuapps/blob/a6f85142e789d7a0683e03952a7ecc84b8abe006/Thumbnail.png",
       "previewImageURLs": [
-        "https://github.com/mul7dev/tortuapps/blob/main/Thumbnail.png"
+        "https://github.com/mul7dev/tortuapps/blob/a6f85142e789d7a0683e03952a7ecc84b8abe006/Thumbnail.png"
       ]
     },
     {
@@ -28,13 +28,13 @@
       "description": "A simple app for encryption and decryption with the Tortubase algorithm.",
       "contentIdentifier": "pn.tortuwave.tortuapps.tortubase",
       "contentVersion": "0.9",
-      "url": "https://github.com/mul7dev/tortuapps/blob/main/Tortubase.zip",
+      "url": "https://github.com/mul7dev/tortuapps/blob/a6f85142e789d7a0683e03952a7ecc84b8abe006/Tortubase.zip",
       "publishedDate": "2024-11-05T09:00:00+01:00",
       "lastUpdatedDate": "2024-11-05T09:00:00+01:00",
-      "thumbnailURL": "https://github.com/mul7dev/tortuapps/blob/main/Thumbnail.png",
-      "bannerImageURL": "https://github.com/mul7dev/tortuapps/blob/main/Thumbnail.png",
+      "thumbnailURL": "https://github.com/mul7dev/tortuapps/blob/a6f85142e789d7a0683e03952a7ecc84b8abe006/Thumbnail.png",
+      "bannerImageURL": "https://github.com/mul7dev/tortuapps/blob/a6f85142e789d7a0683e03952a7ecc84b8abe006/Thumbnail.png",
       "previewImageURLs": [
-        "https://github.com/mul7dev/tortuapps/blob/main/Thumbnail.png"
+        "https://github.com/mul7dev/tortuapps/blob/a6f85142e789d7a0683e03952a7ecc84b8abe006/Thumbnail.png"
       ]
     },
     {
@@ -44,13 +44,13 @@
       "description": "A Swift browser app with a focus on speed and efficiency.",
       "contentIdentifier": "pn.tortuwave.tortuapps.browserpro1",
       "contentVersion": "0.9",
-      "url": "https://github.com/mul7dev/tortuapps/blob/main/BrowserPRO1.zip",
+      "url": "https://github.com/mul7dev/tortuapps/blob/a6f85142e789d7a0683e03952a7ecc84b8abe006/BrowserPRO1.zip",
       "publishedDate": "2024-11-05T09:00:00+01:00",
       "lastUpdatedDate": "2024-11-05T09:00:00+01:00",
-      "thumbnailURL": "https://github.com/mul7dev/tortuapps/blob/main/Thumbnail.png",
-      "bannerImageURL": "https://github.com/mul7dev/tortuapps/blob/main/Thumbnail.png",
+      "thumbnailURL": "https://github.com/mul7dev/tortuapps/blob/a6f85142e789d7a0683e03952a7ecc84b8abe006/Thumbnail.png",
+      "bannerImageURL": "https://github.com/mul7dev/tortuapps/blob/a6f85142e789d7a0683e03952a7ecc84b8abe006/Thumbnail.png",
       "previewImageURLs": [
-        "https://github.com/mul7dev/tortuapps/blob/main/Thumbnail.png"
+        "https://github.com/mul7dev/tortuapps/blob/a6f85142e789d7a0683e03952a7ecc84b8abe006/Thumbnail.png"
       ]
     },
     {
@@ -60,13 +60,13 @@
       "description": "A basic app for creating and editing HTML, CSS, and JavaScript.",
       "contentIdentifier": "pn.tortuwave.tortuapps.tortuwebbasic",
       "contentVersion": "0.9",
-      "url": "https://github.com/mul7dev/tortuapps/blob/main/Tortuweb%20Basic.zip",
+      "url": "https://github.com/mul7dev/tortuapps/blob/a6f85142e789d7a0683e03952a7ecc84b8abe006/Tortuweb%20Basic.zip",
       "publishedDate": "2024-11-05T09:00:00+01:00",
       "lastUpdatedDate": "2024-11-05T09:00:00+01:00",
-      "thumbnailURL": "https://github.com/mul7dev/tortuapps/blob/main/Thumbnail.png",
-      "bannerImageURL": "https://github.com/mul7dev/tortuapps/blob/main/Thumbnail.png",
+      "thumbnailURL": "https://github.com/mul7dev/tortuapps/blob/a6f85142e789d7a0683e03952a7ecc84b8abe006/Thumbnail.png",
+      "bannerImageURL": "https://github.com/mul7dev/tortuapps/blob/a6f85142e789d7a0683e03952a7ecc84b8abe006/Thumbnail.png",
       "previewImageURLs": [
-        "https://github.com/mul7dev/tortuapps/blob/main/Thumbnail.png"
+        "https://github.com/mul7dev/tortuapps/blob/a6f85142e789d7a0683e03952a7ecc84b8abe006/Thumbnail.png"
       ]
     },
     {
@@ -76,13 +76,13 @@
       "description": "A powerful encryption tool using AES for high-security data protection.",
       "contentIdentifier": "pn.tortuwave.tortuapps.tortuencryptaes",
       "contentVersion": "0.9",
-      "url": "https://github.com/mul7dev/tortuapps/blob/main/TortuencryptAES.zip",
+      "url": "https://github.com/mul7dev/tortuapps/blob/a6f85142e789d7a0683e03952a7ecc84b8abe006/TortuencryptAES.zip",
       "publishedDate": "2024-11-05T09:00:00+01:00",
       "lastUpdatedDate": "2024-11-05T09:00:00+01:00",
-      "thumbnailURL": "https://github.com/mul7dev/tortuapps/blob/main/Thumbnail.png",
-      "bannerImageURL": "https://github.com/mul7dev/tortuapps/blob/main/Thumbnail.png",
+      "thumbnailURL": "https://github.com/mul7dev/tortuapps/blob/a6f85142e789d7a0683e03952a7ecc84b8abe006/Thumbnail.png",
+      "bannerImageURL": "https://github.com/mul7dev/tortuapps/blob/a6f85142e789d7a0683e03952a7ecc84b8abe006/Thumbnail.png",
       "previewImageURLs": [
-        "https://github.com/mul7dev/tortuapps/blob/main/Thumbnail.png"
+        "https://github.com/mul7dev/tortuapps/blob/a6f85142e789d7a0683e03952a7ecc84b8abe006/Thumbnail.png"
       ]
     }
   ]

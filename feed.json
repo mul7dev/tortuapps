@@ -7,18 +7,18 @@
   "documents": [
     {
       "title": "Tortucalendar",
-      "overviewSubtitle": "A calendar for Tortu lovers",
-      "detailSubtitle": "Plan and organize your days with Tortucalendar",
-      "description": "A user-friendly calendar app for planning events and tasks.",
+      "overviewSubtitle": "A simple calendar app",
+      "detailSubtitle": "Organize your events with ease",
+      "description": "A straightforward and user-friendly calendar app to plan your days and manage events.",
       "contentIdentifier": "pn.tortuwave.tortuapps.tortucalendar",
       "contentVersion": "0.9",
       "url": "https://github.com/mul7dev/tortuapps/blob/main/Tortucalendar.zip",
       "publishedDate": "2024-11-05T09:00:00+01:00",
       "lastUpdatedDate": "2024-11-05T09:00:00+01:00",
-      "thumbnailURL": "https://github.com/mul7dev/tortuapps/blob/main/Tortucalendar/thumbnail.png",
-      "bannerImageURL": "https://github.com/mul7dev/tortuapps/blob/main/Tortucalendar/banner.png",
+      "thumbnailURL": "https://github.com/mul7dev/tortuapps/blob/main/Thumbnail.png",
+      "bannerImageURL": "https://github.com/mul7dev/tortuapps/blob/main/Thumbnail.png",
       "previewImageURLs": [
-        "https://github.com/mul7dev/tortuapps/blob/main/Tortucalendar/preview1.png"
+        "https://github.com/mul7dev/tortuapps/blob/main/Thumbnail.png"
       ]
     },
     {
@@ -31,10 +31,10 @@
       "url": "https://github.com/mul7dev/tortuapps/blob/main/Tortubase.zip",
       "publishedDate": "2024-11-05T09:00:00+01:00",
       "lastUpdatedDate": "2024-11-05T09:00:00+01:00",
-      "thumbnailURL": "https://github.com/mul7dev/tortuapps/blob/main/Tortubase/thumbnail.png",
-      "bannerImageURL": "https://github.com/mul7dev/tortuapps/blob/main/Tortubase/banner.png",
+      "thumbnailURL": "https://github.com/mul7dev/tortuapps/blob/main/Thumbnail.png",
+      "bannerImageURL": "https://github.com/mul7dev/tortuapps/blob/main/Thumbnail.png",
       "previewImageURLs": [
-        "https://github.com/mul7dev/tortuapps/blob/main/Tortubase/preview1.png"
+        "https://github.com/mul7dev/tortuapps/blob/main/Thumbnail.png"
       ]
     },
     {
@@ -47,10 +47,10 @@
       "url": "https://github.com/mul7dev/tortuapps/blob/main/BrowserPRO1.zip",
       "publishedDate": "2024-11-05T09:00:00+01:00",
       "lastUpdatedDate": "2024-11-05T09:00:00+01:00",
-      "thumbnailURL": "https://github.com/mul7dev/tortuapps/blob/main/BrowserPRO1/thumbnail.png",
-      "bannerImageURL": "https://github.com/mul7dev/tortuapps/blob/main/BrowserPRO1/banner.png",
+      "thumbnailURL": "https://github.com/mul7dev/tortuapps/blob/main/Thumbnail.png",
+      "bannerImageURL": "https://github.com/mul7dev/tortuapps/blob/main/Thumbnail.png",
       "previewImageURLs": [
-        "https://github.com/mul7dev/tortuapps/blob/main/BrowserPRO1/preview1.png"
+        "https://github.com/mul7dev/tortuapps/blob/main/Thumbnail.png"
       ]
     },
     {
@@ -60,13 +60,13 @@
       "description": "A basic app for creating and editing HTML, CSS, and JavaScript.",
       "contentIdentifier": "pn.tortuwave.tortuapps.tortuwebbasic",
       "contentVersion": "0.9",
-      "url": "https://github.com/mul7dev/tortuapps/blob/main/Tortuweb Basic.zip",
+      "url": "https://github.com/mul7dev/tortuapps/blob/main/Tortuweb%20Basic.zip",
       "publishedDate": "2024-11-05T09:00:00+01:00",
       "lastUpdatedDate": "2024-11-05T09:00:00+01:00",
-      "thumbnailURL": "https://github.com/mul7dev/tortuapps/blob/main/Tortuweb Basic/thumbnail.png",
-      "bannerImageURL": "https://github.com/mul7dev/tortuapps/blob/main/Tortuweb Basic/banner.png",
+      "thumbnailURL": "https://github.com/mul7dev/tortuapps/blob/main/Thumbnail.png",
+      "bannerImageURL": "https://github.com/mul7dev/tortuapps/blob/main/Thumbnail.png",
       "previewImageURLs": [
-        "https://github.com/mul7dev/tortuapps/blob/main/Tortuweb Basic/preview1.png"
+        "https://github.com/mul7dev/tortuapps/blob/main/Thumbnail.png"
       ]
     },
     {
@@ -79,10 +79,10 @@
       "url": "https://github.com/mul7dev/tortuapps/blob/main/TortuencryptAES.zip",
       "publishedDate": "2024-11-05T09:00:00+01:00",
       "lastUpdatedDate": "2024-11-05T09:00:00+01:00",
-      "thumbnailURL": "https://github.com/mul7dev/tortuapps/blob/main/TortuencryptAES/thumbnail.png",
-      "bannerImageURL": "https://github.com/mul7dev/tortuapps/blob/main/TortuencryptAES/banner.png",
+      "thumbnailURL": "https://github.com/mul7dev/tortuapps/blob/main/Thumbnail.png",
+      "bannerImageURL": "https://github.com/mul7dev/tortuapps/blob/main/Thumbnail.png",
       "previewImageURLs": [
-        "https://github.com/mul7dev/tortuapps/blob/main/TortuencryptAES/preview1.png"
+        "https://github.com/mul7dev/tortuapps/blob/main/Thumbnail.png"
       ]
     }
   ]
